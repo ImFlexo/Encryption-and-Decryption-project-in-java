@@ -26,7 +26,7 @@ public class Encryption {
         
         System.out.println("\n\n");
         
-        System.out.println("Decrypting...\n-------------------------");
+        System.out.println("Decrypting...\n--------------------");
      String encrypted_text = "nu}&{&juotE";
         System.out.println(encrypted_text);
         
