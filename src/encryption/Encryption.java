@@ -13,7 +13,6 @@ public class Encryption {
          System.out.println(normal_text);
         
         char[] chars = normal_text.toCharArray();
-        
       
         
         for ( char c : chars){
