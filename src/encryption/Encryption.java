@@ -7,7 +7,7 @@ public class Encryption {
     
     public static void main(String[] args) {
         
-        int key =6;
+        int key = 6;
         System.out.println("Encrypting...\n--------------------");
         String normal_text = "how u doin?";
          System.out.println(normal_text);
@@ -25,7 +25,7 @@ public class Encryption {
         
         System.out.println("\n\n");
         
-        System.out.println("Decrypting...\n--------------------");
+        System.out.println("Decrypting... \n--------------------");
      String encrypted_text = "nu}&{&juotE";
         System.out.println(encrypted_text);
         
