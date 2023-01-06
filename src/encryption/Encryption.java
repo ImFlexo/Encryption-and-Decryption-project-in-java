@@ -22,7 +22,6 @@ public class Encryption {
           
         }
         
-        
         System.out.println("\n\n");
         
         System.out.println("Decrypting... \n--------------------");
