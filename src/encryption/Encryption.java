@@ -40,9 +40,7 @@ public class Encryption {
         }
         System.out.println("");
         
-        
-        
-        
+       
         
     }
     
